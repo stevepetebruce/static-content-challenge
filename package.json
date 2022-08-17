@@ -1,0 +1,23 @@
+{
+  "name": "static-content-challenge",
+  "version": "1.0.0",
+  "description": "**NB: Please do not fork this repository, to avoid your solution being visible from this repository's GitHub page. Please clone this repository and submit your solution as a separate repository.**",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.1",
+    "lts": "^1.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-pensionbee:PensionBee/static-content-challenge.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
