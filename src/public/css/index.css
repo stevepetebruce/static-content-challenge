@@ -1,0 +1,34 @@
+html {
+  block-size: 100%;
+  inline-size: 100%;
+}
+
+body {
+  background: rgb(249,192,0);
+  background: linear-gradient(323deg, rgba(231,177,0,1) 0%, rgba(249,192,0,1) 14%);
+  box-sizing: border-box;
+  max-width: 800px;
+  margin: 100px auto;
+  padding: 0 20px;
+}
+
+h1 {
+  font-family: system-ui, sans-serif;
+  font-size: max(100%, 3vmin);
+  color: #343a40;
+  font-size: 2.8rem;
+  line-height: 1.25;
+  margin-bottom: 32px;
+}
+
+p {
+  font-family: 'ryo-gothic-plusn',sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  color: #000;
+  line-height: 1.4;
+}
+
+a { 
+  color: #000; 
+}
